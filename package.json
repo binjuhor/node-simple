@@ -1,0 +1,27 @@
+{
+  "name": "node-app",
+  "version": "1.0.0",
+  "description": "A simple NodeJs application for beginner",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/binjuhor/node-simple.git"
+  },
+  "keywords": [
+    "nodejs",
+    "node-app",
+    "beginner"
+  ],
+  "author": "Binjuhor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/binjuhor/node-simple/issues"
+  },
+  "homepage": "https://github.com/binjuhor/node-simple#readme",
+  "dependencies": {
+    "node-persist": "0.0.8"
+  }
+}
